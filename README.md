@@ -1,4 +1,4 @@
-# CONTRIBUTING-STYLEGUIDE
+# How to use this organization and contribute
 
 ## What it is
 
