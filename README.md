@@ -54,10 +54,6 @@ If changes are updates be sure to update the master branch as well as the soluti
 
 #### Adding a new version of existing content
 
-Use the `--edit-description` flag when making a new branch to provide a description for your version of the content, what's different, what's in it. etc.
-
-`git branch --edit-description`
-
 Your branch name should include your name and whether it's the master or the solution.
 
 ```
@@ -69,4 +65,4 @@ Your branch name should include your name and whether it's the master or the sol
 
 Create an issue on the repo in question and list the problem, proposed fix, or addition and the associated branch, file, line number, etc.
 
-The content owner can either make that change or suggest that it goes into a new version of the lesson. 
+The content owner can either make that change or suggest that it goes into a new version of the lesson.
