@@ -8,13 +8,13 @@ This Organization holds repositories of lessons and daily class work, labs, home
 
 Before creating a new repository search through organization to make sure your content is unique.
 
-#### if it is not unique
+*If it is not unique*
 
 Clone the repository that contains an iteration of your content and make a new branch to push your content to.
 
 _see naming conventions below_
 
-#### if it is unique
+*If it is unique*
 
 Create a new repository with a master and a solution branch.
 
@@ -42,9 +42,9 @@ _examples_
 [html, css, js]
 ```
 
-## Branch naming conventions
+## Branches
 
-Every repo should have the starter code, lesson, readme, instructions, examples, on the `master` branch.
+Every repo should have the starter code, lesson, README, instructions, examples, on the `master` branch.
 
 The solution code in a solutions branch.
 
@@ -65,4 +65,4 @@ Your branch name should include your name and whether it's the master or the sol
 
 Create an issue on the repo in question and list the problem, proposed fix, or addition and the associated branch, file, line number, etc.
 
-The content owner can either make that change or suggest that it goes into a new version of the lesson.
+The content owner can either make that change or suggest that it goes into a new version of the lesson made by _you!_
