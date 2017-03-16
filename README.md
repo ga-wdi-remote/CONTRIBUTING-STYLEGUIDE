@@ -1,12 +1,19 @@
 # How to use this organization and contribute
 
+* [Contributing](#contributing)
+* [Naming Conventions](#naming-conventions)
+  - [Repos](#repositoris)
+  - [Branches](#branches)
+* [Making Changes to Existing Content](making-changes)
+
+
 ## What it is
 
 This Organization holds repositories of lessons and daily class work, labs, homework, and installation lessons.
 
-## Contributing
+## <a name="contributing">Contributing</a>
 
-Before creating a new repository search through organization to make sure your content is unique. You can search by repo topic names like lesson and homework or by topics like javascript, express, mongoose, ruby, rails, 
+Before creating a new repository search through organization to make sure your content is unique. You can search by repo topic names like lesson and homework or by topics like javascript, express, mongoose, ruby, rails,
 
 *If it is not unique*
 
@@ -24,9 +31,9 @@ Find your repo in the list and add the relevant tags to make the repo easily sea
 
 Be sure to definitely label your repo as either lesson, homework, lab etc and the technologies required.
 
-## Naming Conventions
+## <a name="naming-conventions">Naming Conventions</a>
 
-#### Repositories
+#### <a name="repositories">Repositories</a>
 
 Name of the repo should start with language/tech abbreviation followed by the type of content and the name of the assignment.
 
@@ -36,13 +43,13 @@ js-hw-function-reps
 ruby-lab-banana-stand
 ```
 
-Once the repo is created add a description to the repository describing the content if there are things specific to the content that should be known early. 
+Once the repo is created add a description to the repository describing the content if there are things specific to the content that should be known early.
 
-For Example: 
+For Example:
 
 That the lab in a repo is a multi-day assignment or dependent on the content in some other repo etc.
 
-## Branches
+## <a name="branches">Branches</a>
 
 Every repo should have the starter code, lesson, README, instructions, examples, on the `master` branch.
 
@@ -61,7 +68,7 @@ master
 <your name>-solution
 ```
 
-## Making Changes
+## <a name="making-changes">Making Changes</a>
 
 Create an issue on the repo in question and list the problem, proposed fix, or addition and the associated branch, file, line number, etc.
 
