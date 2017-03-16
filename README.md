@@ -2,9 +2,9 @@
 
 * [Contributing](#contributing)
 * [Naming Conventions](#naming-conventions)
-  - [Repos](#repositoris)
+  - [Repos](#repositories)
   - [Branches](#branches)
-* [Making Changes to Existing Content](making-changes)
+* [Making Changes to Existing Content](#making-changes)
 
 
 ## What it is
