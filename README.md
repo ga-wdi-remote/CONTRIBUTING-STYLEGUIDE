@@ -18,9 +18,11 @@ _see naming conventions below_
 
 Create a new repository with a master and a solution branch.
 
-Label your repo with Topics by clicking the Settings tab in the organization, clicking
+Label your repo with [Topics](https://github.com/blog/2309-introducing-topics) by clicking the Settings tab in the organization, and clicking Repository topics.
 
-_see naming conventions below_
+Find your repo in the list and add the relevant tags to make the repo easily searchable from the org home page.
+
+Be sure to definitely label your repo as either lesson, homework, lab etc and the technologies required.
 
 ## Naming Conventions
 
@@ -55,7 +57,7 @@ If changes are updates be sure to update the master branch as well as the soluti
 Your branch name should include your name and whether it's the master or the solution.
 
 ```
-<your name>-master
+master
 <your name>-solution
 ```
 
