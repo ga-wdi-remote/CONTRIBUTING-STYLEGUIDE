@@ -15,13 +15,13 @@ This Organization holds repositories of lessons and daily class work, labs, home
 
 Before creating a new repository search through organization to make sure your content is unique. You can search by repo topic names like lesson and homework or by topics like javascript, express, mongoose, ruby, rails,
 
-*If it is not unique*
+**If it is not unique**
 
 Clone the repository that contains an version of your content and make a new branch to push your content to.
 
 _see naming conventions below_
 
-*If it is unique*
+**If it is unique**
 
 Create a new repository with a master and a solution branch.
 
